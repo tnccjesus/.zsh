@@ -1,0 +1,12 @@
+.\#*
+.DS_Store
+.env
+.envrc
+*.ba*k*
+*.orig*
+*.swp
+*.zwc
+*.zwc.old
+*~*
+~$*
+Thumbs.db
